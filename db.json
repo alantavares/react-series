@@ -1,0 +1,34 @@
+{
+  "series": [
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "current": {
+        "episode": "01",
+        "season": "09"
+      },
+      "comments": "Bom para descontrair"
+    },
+    {
+      "name": "teste",
+      "status": "watch",
+      "genre": "Comédia",
+      "comments": "teste 12",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Novo drama 3",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "teste comentário\n"
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
